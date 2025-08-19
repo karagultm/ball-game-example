@@ -18,7 +18,7 @@ animasyon yapılmıştır.
 ``` bash
 # Repoyu klonla
 git clone https://github.com/karagultm/ball-game-example.git
-cd terminal-bounce
+cd ball-game-example
 
 # Programı çalıştır
 go run main.go
